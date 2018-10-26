@@ -6,7 +6,8 @@
 [《最新大话数据结构》](http://www.jqhtml.com/down/5066.html)  
 
 **数学**  
-[《具体数学 计算机科学基础CONCRETE MATHEMATICS A FOUNDATION FOR COMPUTER SCIENCE, SECOND EDITION》](https://u17250589.pipipan.com/fs/17250589-302230695)
+[《具体数学 计算机科学基础CONCRETE MATHEMATICS A FOUNDATION FOR COMPUTER SCIENCE, SECOND EDITION》](https://u17250589.pipipan.com/fs/17250589-302230695)  
+[《An infinite descent into pure mathematics》 Clive Newstead](https://infinitedescent.xyz/dl/infdesc-a4.pdf)  
 
 **生物**  
 

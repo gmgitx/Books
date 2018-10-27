@@ -13,6 +13,7 @@
 [《An infinite descent into pure mathematics》 Clive Newstead](https://infinitedescent.xyz/dl/infdesc-a4.pdf)  
 
 **生物**  
+[《基因传》](http://www.6aks.com/32.html)     
 
 **科普**  
 《时间的形状》  

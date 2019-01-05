@@ -7,7 +7,8 @@
 [《深入理解计算机系统》（原书第三版）](https://jackmk.ctfile.com/fs/14155983-229707836)  
 [《最新大话数据结构》](http://www.jqhtml.com/down/5066.html)   
 [《信息论基础 第2版》](https://yun.baidu.com/s/1Dulva?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=)       
-[《R数据可视化手册》](http://www.jqhtml.com/down/929.html)   
+[《R数据可视化手册》](http://www.jqhtml.com/down/929.html)     
+[《The Elements of Style》](http://www.jlakes.org/ch/web/The-elements-of-style.pdf) 
 
 **数学**  
 [《具体数学 计算机科学基础CONCRETE MATHEMATICS A FOUNDATION FOR COMPUTER SCIENCE, SECOND EDITION》](https://u17250589.pipipan.com/fs/17250589-302230695)  
